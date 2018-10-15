@@ -48,3 +48,4 @@ Follow along live: (URL to come)
 - Add an [action button](https://developer.github.com/changes/2018-05-23-request-actions-on-checks/) to "approve the dependency changes"
 - Modify the check “conclusion” based on the changed dependencies
 - Experiment further with the Checks API and build something completely different
+
